@@ -1,0 +1,109 @@
+section.section_classify{
+    @include flex();
+    @include flexbox();
+    @include flex-direction(row);
+    width: 100%;
+    background-color: #fff;
+    overflow: hidden;
+    div.classify-nav{
+        width: .8rem;
+        background-color:#efeff4;
+        >ul{
+            padding-bottom: .2rem;
+            li{
+                height: .6rem;
+                width: 100%;
+                @include border(0 1px 0 0,#ececec,solid);
+                @include flexbox();
+                @include flex-direction(column);
+                @include justify-content(center);
+                p{
+                    text-align: center;
+                    width: 100%;
+                    &:nth-child(1){
+                        font-size: 14px;
+                        color: #333;
+                    }
+                    &:nth-child(2){
+                        color: #868686;
+                        font-size: 12px;
+                    }
+                }
+                &.active{
+                    background-color:white;
+                    p{
+                        &:nth-child(1){
+                            font-size: 14px;
+                            color: $base-color;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    div.classify-detail{
+        @include flex();
+        @include flexbox();
+        background-color:#fff;
+        margin-bottom: .2rem;
+        >ul{
+            @include flexbox();
+            width: 100%;
+            >li{
+                display: none;
+                width: 100%;
+                >div>div{
+                    width: 100%;
+                    @include border(0 0 1px 0,#ececec,solid);
+                    height: .98rem;
+                    position: relative;
+                    >img{
+                        &.src{
+                            display:inline-block;
+                            width:1.32rem;
+                            height: .98rem;
+                            float: left;
+                        }
+                        &.classify_btn{
+                            position: absolute;
+                            bottom: 5%;
+                            right: 3%;
+                            width: .33rem;
+                            height: .32rem;
+                        }
+                    }
+                    >ul{
+                        float: left;
+                        >li{
+                            &:nth-child(1){
+                                height: .25rem;
+                                line-height: .33rem;
+                                font-size: 14px;
+                                color: #555;
+                            }
+                            &:nth-child(2){
+                                height: .15rem;
+                                line-height: .15rem;
+                                font-size: 12px;
+                                color: #a4a4a4;
+                                margin:.05rem 0 .15rem 0;
+                            }
+                            &:nth-child(3){
+                                height: .38rem;
+                                line-height: .38rem;
+                                font-size: 16px;
+                                color: $base-color;
+                            }
+                        }
+                    }
+                }
+                &.show{
+                    display: block;
+                    width: 100%;
+                    @include flex();
+                    padding-bottom: .2rem;
+                }
+            }
+        }
+    }
+}

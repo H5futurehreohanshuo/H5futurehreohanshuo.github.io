@@ -1,0 +1,280 @@
+<header>
+	<ul>
+		<li>
+			<p>配送至：</p>
+		</li>
+		<li><span>双全大厦</span>></li>
+		<li><div><img src="../../../images/index/icon_search.png"/></div></li>
+	</ul>
+</header>
+<section spa-widget="scroll" id="index-scroll" class="section_index">
+	<div>
+		<div id="index-banner" class="swiper-container">
+		    <div class="swiper-wrapper">
+		        <div class="swiper-slide">
+		        	<img src="../../../images/index/banner.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="../../../images/index/banner.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="../../../images/index/banner.jpg"/>
+		        </div>
+		        <div class="swiper-slide">
+		        	<img src="../../../images/index/banner.jpg"/>
+		        </div>
+		    </div>
+		    <!-- 如果需要分页器 -->
+		    <div class="swiper-pagination"></div>
+		</div>
+		<nav>
+			<ul>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>59分钟达</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>团购</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>新客专享</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>企业销售</span></b>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>本周爆款</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>秒杀闪购</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>赢取免单</span></b>
+				</li>
+				<li>
+					<i>
+						<img src="../../../images/index/nav-1.jpg" />
+					</i>
+					<b><span>特惠换购</span></b>
+				</li>
+			</ul>
+		</nav>
+		<div id="yimi_kuaibao">
+			<ul>
+				<li><img src="../../../images/index/yimikuaibao.png"/>
+				<div></div>
+				</li>
+				<li>
+					<p>
+						<i>必买</i>
+						产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁
+					</p>
+				</li>
+			</ul>
+		</div>
+		<div id="miaosha">
+			<ul>
+				<li><div>
+					<img src="../../../images/index/miaosha1.jpg"/>
+				</div>
+				</li>
+				<li>
+					<div>
+					<img src="../../../images/index/miaosha1.jpg"/>
+				</div>
+				</li>
+				<li>
+					<div>
+					<img src="../../../images/index/miaosha1.jpg"/>
+				</div>
+				</li>
+			</ul>
+		</div>
+		<ul id="goods">
+			<li><img src="../../../images/index/goods-1.jpg"/></li>
+			<li><img src="../../../images/index/goods-1.jpg"/></li>
+			<li><img src="../../../images/index/goods-1.jpg"/></li>
+		</ul>
+		<div class="goods-tit">
+			<p>一米团</p>
+		</div>
+		<div class="goods-list">
+			<ul class="goodsList-ul" ms-repeat-value="livelist">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img ms-src="value[0].imgSrc"/>
+					<ul class="listDetail">
+						<li ms-text="value[0].title"></li>
+						<li><span ms-text="value[0].tuan"></span><span ms-text="value[0].fen"></span></li>
+						<li><span class="goodsPrice" ms-text="value[0].price"></span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+				<li ms-class-hidden="!value[1]">
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img ms-src="value[1].imgSrc"/>
+					<ul class="listDetail">
+						<li ms-text="value[1].title"></li>
+						<li><span ms-text="value[1].tuan"></span><span ms-text="value[1].fen"></span></li>
+						<li><span class="goodsPrice" ms-text="value[1].price"></span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="goods-tit">
+			<p>本周热款</p>
+		</div>
+		<div class="goods-list">
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><i>去团购</i></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="goods-tit">
+			<p>万众瞩目</p>
+		</div>
+		<div class="goods-list">
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="goodsList-ul">
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+				<li>
+					<img src="../../../images/index/tuijian.jpg" class="sign"/>
+					<img src="../../../images/index/goodsList-1.jpg"/>
+					<ul class="listDetail">
+						<li>安岳黄柠檬</li>
+						<li><span>3人团</span><span>A级/6个/份</span></li>
+						<li><span class="goodsPrice">￥40.9</span><span class="goodsPrevPrice">￥69</span><img src="../../../images/index/icon_plus.png"/></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="clickMore">
+			<p action-type="toClassify"><img src="../../../images/index/icon_home_more.png"/>点击查看全部商品 ></p>
+		</div>
+	</div>
+	<div class="toTop"><img src="../../../images/index/home_to_top.png"/></div>
+</section>

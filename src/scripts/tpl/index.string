@@ -1,136 +1,24 @@
 <div class="m-index">
-	<header>
-		<ul>
-			<li>
-				<p>配送至：</p>
-			</li>
-			<li><span>双全大厦</span>></li>
-			<li><div><img src="../../../images/index/icon_search.png"/></div></li>
-		</ul>
-	</header>
-	<section spa-widget="scroll" id="index-scroll">
-		<div>
-			<div id="index-banner" class="swiper-container">
-			    <div class="swiper-wrapper">
-			        <div class="swiper-slide">
-			        	<img src="../../../images/index/banner.jpg"/>
-			        </div>
-			        <div class="swiper-slide">
-			        	<img src="../../../images/index/banner.jpg"/>
-			        </div>
-			        <div class="swiper-slide">
-			        	<img src="../../../images/index/banner.jpg"/>
-			        </div>
-			        <div class="swiper-slide">
-			        	<img src="../../../images/index/banner.jpg"/>
-			        </div>
-			    </div>
-			    <!-- 如果需要分页器 -->
-			    <div class="swiper-pagination"></div>
-			</div>
-			<nav>
-				<ul>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>59分钟达</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>团购</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>新客专享</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>企业销售</span></b>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>本周爆款</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>秒杀闪购</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>赢取免单</span></b>
-					</li>
-					<li>
-						<i>
-							<img src="../../../images/index/nav-1.jpg" />
-						</i>
-						<b><span>特惠换购</span></b>
-					</li>
-				</ul>
-			</nav>
-			<div id="yimi_kuaibao">
-				<ul>
-					<li><img src="../../../images/index/yimikuaibao.png"/>
-					<div></div>
-					</li>
-					<li>
-						<p>
-							<i>必买</i>
-							产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁产地直发水晶富士，买一赠一。脆甜多汁
-						</p>
-					</li>
-				</ul>
-			</div>
-			<div id="miaosha">
-				<ul>
-					<li><div>
-						<img src="../../../images/index/miaosha1.jpg"/>
-					</div>
-					</li>
-					<li>
-						<div>
-						<img src="../../../images/index/miaosha1.jpg"/>
-					</div>
-					</li>
-					<li>
-						<div>
-						<img src="../../../images/index/miaosha1.jpg"/>
-					</div>
-					</li>
-				</ul>
-			</div>
-			<ul id="goods">
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-				<li><img src="../../../images/index/goods-1.jpg"/></li>
-			</ul>
-			
-		</div>
-	</section>
+	<div class="m-index-container">
+
+	</div>
 	<footer>
 		<ul>
-			<li><img src="../../../images/index/home_home_icon_p.png"/></li>
-			<li><img src="../../../images/index/ic_home_kind.png"/></li>
-			<li><img src="../../../images/index/ic_home_cart.png"/></li>
-			<li><img src="../../../images/index/home_order_icon.png"/></li>
-			<li action-type="exit"><img src="../../../images/index/home_account_icon.png"/></li>
+			<li action-type="switch.view" data-tag="home">
+				<img src="../../../images/index/home_home_icon_p.png" />
+			</li>
+			<li action-type="switch.view" data-tag="classify">
+				<img src="../../../images/index/ic_home_kind.png" />
+			</li>
+			<li>
+				<img src="../../../images/index/ic_home_cart.png" />
+			</li>
+			<li action-type="switch.view" data-tag="order">
+				<img src="../../../images/index/home_order_icon.png" />
+			</li>
+			<li action-type="switch.view" data-tag="my">
+				<img src="../../../images/index/home_account_icon.png" />
+			</li>
 		</ul>
 	</footer>
 </div>
