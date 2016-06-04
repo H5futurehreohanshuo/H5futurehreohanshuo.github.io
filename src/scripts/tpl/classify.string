@@ -4,7 +4,7 @@
 			<p>配送至：</p>
 		</li>
 		<li><span>双全大厦</span>></li>
-		<li><div><img src="../../../images/index/icon_search.png"/></div></li>
+		<li><div><img src="/yimixian/images/index/icon_search.png"/></div></li>
 	</ul>
 </header>
 <section class="section_classify">
@@ -29,489 +29,489 @@
 			<li action-type="switch.view" class="show" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-2.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-2.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-2.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-2.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-2.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
 			<li action-type="switch.view" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-2.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-2.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-2.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-2.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-2.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-3.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
 			<li action-type="switch.view" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-3.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
 			<li action-type="switch.view" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
 			<li action-type="switch.view" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-				</div>
-			</li>
-			<li action-type="switch.view" spa-widget="scroll">
-				<div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
-					</div>
-					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
-						<ul>
-							<li>地雷瓜</li>
-							<li>1个约7300-7500g/</li>
-							<li>￥18.8</li>
-						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
 			<li action-type="switch.view" spa-widget="scroll">
 				<div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+				</div>
+			</li>
+			<li action-type="switch.view" spa-widget="scroll">
+				<div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 					<div>
-						<img src="../../../images/classify/goods-1.jpg" class="src"/>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
 						<ul>
 							<li>地雷瓜</li>
 							<li>1个约7300-7500g/</li>
 							<li>￥18.8</li>
 						</ul>
-						<img src="../../../images/index/icon_plus.png" class="classify_btn"/>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
+					</div>
+					<div>
+						<img src="/yimixian/images/classify/goods-1.jpg" class="src"/>
+						<ul>
+							<li>地雷瓜</li>
+							<li>1个约7300-7500g/</li>
+							<li>￥18.8</li>
+						</ul>
+						<img src="/yimixian/images/index/icon_plus.png" class="classify_btn"/>
 					</div>
 				</div>
 			</li>
