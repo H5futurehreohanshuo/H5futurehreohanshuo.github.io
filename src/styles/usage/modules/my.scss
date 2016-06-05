@@ -1,0 +1,117 @@
+header#my_header{
+    background: #ff5a1e;
+    height: .9rem;
+    img{
+        width: .55rem;
+        height: .55rem;
+        margin: .17rem 0 0 .1rem;
+        display: inline-block;
+    }
+    p{
+        display: inline-block;
+        font-size: 15px;
+        color: white;
+        margin-left:.2rem;
+        @include transform(translateY(.1rem));
+    }
+}
+section.section_my{
+    width: 100%;
+    height: .81rem;
+    background-color: white;
+    >ul.my_msg{
+        width: 100%;
+        height: 100%;
+        @include flexbox();
+        @include border(0 0 6px 0,#f0eff5,solid);
+        >li{
+            @include flex();
+            @include align-items(center);
+            padding-top: .19rem;
+            @include border(0 1px 0 0,#f1f1f6,solid);
+            p{
+                text-align: center;
+                color: $base-color;
+                font-size: 17px;
+                span{
+                    font-size: 13px;
+                }
+                &.my_cor1{
+                    color: #00d722;
+                }
+                &.my_cor2{
+                    color: #ff9602;
+                }
+            }
+            b{
+                display: block;
+                font-weight: normal;
+                text-align: center;
+                color: #5a5a5a;
+                font-size: 14px;
+            }
+        }
+    }
+    >ul.my_setting{
+        height: .93rem;
+        width: 100%;
+        @include border(0 0 6px 0,#f0eff5,solid);
+        padding-left: .15rem;
+        background-color: white;
+        >li{
+            @include flexbox();
+            @include align-items(center);
+            font-size: 14px;
+            color: #303030;
+            height: .42rem;
+            position:relative;
+            &:first-child{
+                @include border(0 0 1px 0,#f0eff5,solid);
+            }
+            &.settingColor{
+                color: $base-color;
+            }
+            b{
+                display: inline-block;
+                height: .18rem;
+                width: .18rem;
+                margin-right: .17rem;
+                img{
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            i{
+                font-style: normal;
+                color: $base-color;
+                display: inline-block;
+                width: .13rem;
+                height: .18rem;
+                position: absolute;
+                right: 10%;
+                font-size: 14px;
+                img{
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                }
+                &.phone{
+                    width: auto;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

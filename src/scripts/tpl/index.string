@@ -5,19 +5,19 @@
 	<footer>
 		<ul>
 			<li action-type="switch.view" data-tag="home">
-				<img src="../../../images/index/home_home_icon_p.png" />
+				<img src="/yimixian/images/index/home_home_icon_p.png" />
 			</li>
 			<li action-type="switch.view" data-tag="classify">
-				<img src="../../../images/index/ic_home_kind.png" />
+				<img src="/yimixian/images/index/ic_home_kind.png" />
 			</li>
 			<li>
-				<img src="../../../images/index/ic_home_cart.png" />
+				<img src="/yimixian/images/index/ic_home_cart.png" />
 			</li>
 			<li action-type="switch.view" data-tag="order">
-				<img src="../../../images/index/home_order_icon.png" />
+				<img src="/yimixian/images/index/home_order_icon.png" />
 			</li>
 			<li action-type="switch.view" data-tag="my">
-				<img src="../../../images/index/home_account_icon.png" />
+				<img src="/yimixian/images/index/home_account_icon.png" />
 			</li>
 		</ul>
 	</footer>

@@ -39,4 +39,11 @@ SPA.defineView('home',{
 		   	});
 		}
 	},
+	
+	bindActions:{
+		'toTop':function(){
+			//返回顶部动画
+			$(".scroll").scrollTo(0,0);
+		}
+	}
 });

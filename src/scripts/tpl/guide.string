@@ -2,13 +2,13 @@
 	<div class="swiper-container" id="guide-swiper">
 	    <div class="swiper-wrapper">
 	        <div class="swiper-slide">
-	        	<img src="/images/guide/app_intro1.jpg"/>
+	        	<img src="/yimixian/images/guide/app_intro1.jpg"/>
 	        </div>
 	        <div class="swiper-slide">
-	        	<img src="/images/guide/app_intro2.jpg"/>
+	        	<img src="/yimixian/images/guide/app_intro2.jpg"/>
 	        </div>
 	        <div class="swiper-slide" action-type="goto.index">
-	        	<img src="/images/guide/app_intro3.jpg"/>
+	        	<img src="/yimixian/images/guide/app_intro3.jpg"/>
 	        </div>
 	    </div>
 	</div>

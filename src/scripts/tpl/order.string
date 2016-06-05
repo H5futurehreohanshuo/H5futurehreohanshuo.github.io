@@ -1,3 +1,28 @@
-<div class="">
-	search...
-</div>
+<header id="order_header">
+	<ul>
+		<li></li>
+		<li class="active order-menu" action-type="switch.order">我的订单</li>
+		<li action-type="switch.order" class="order-menu">我的团单</li>
+		<li></li>
+	</ul>
+</header>
+<section class="section_order">
+	<div class="swiper-container" id="order-swiper">
+	    <div class="swiper-wrapper">
+	        <div class="swiper-slide">
+	        	<div class="order-cont">
+					<img src="/yimixian/images/order/ic_unlogin.png"/>
+					<p>登录了才能查看订单信息呦</p>
+					<b>去登录</b>
+				</div>
+	        </div>
+	        <div class="swiper-slide">
+	        	<div class="order-cont">
+					<img src="/yimixian/images/order/ic_unlogin.png"/>
+					<p>登录了才能查看订单信息呦</p>
+					<b>去登录</b>
+				</div>
+	        </div>
+	    </div>
+	</div>
+</section>

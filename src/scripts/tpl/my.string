@@ -1,3 +1,32 @@
-<div class="">
-	my...
-</div>
+<header id="my_header">
+	<img src="/yimixian/images/my/ic_my_head_pic.png" />
+	<p>点击登录</p>
+</header>
+<section class="section_my">
+	<ul class="my_msg">
+		<li>
+			<p>0 <span>元</span></p>
+			<b>账户余额</b>
+		</li>
+		<li>
+			<p class="my_cor1">0 <span>张</span></p>
+			<b>我的优惠劵</b>
+		</li>
+		<li>
+			<p class="my_cor2">0 <span>分</span></p>
+			<b>我的积分</b>
+		</li>
+	</ul>
+	<ul class="my_setting">
+		<li class="settingColor"><b><img src="/yimixian/images/my/ic_setting_invite.png"/></b>邀请朋友赢免单<i><img src="/yimixian/images/my/ic_cart_arrow_right.png"/></i></li>
+		<li><b><img src="/yimixian/images/my/ic_enterprise_buying_group.png"/></b>企业团购<i><img src="/yimixian/images/my/ic_cart_arrow_right.png"/></i></li>
+	</ul>
+	<ul class="my_setting">
+		<li><b><img src="/yimixian/images/my/ic_setting_manage_address.png"/></b>管理收货地址<i><img src="/yimixian/images/my/ic_cart_arrow_right.png"/></i></li>
+		<li><b><img src="/yimixian/images/my/ic_setting_setting.png"/></b>设置<i><img src="/yimixian/images/my/ic_cart_arrow_right.png"/></i></li>
+	</ul>
+	<ul class="my_setting">
+		<li><b><img src="/yimixian/images/my/ic_customer_service.png"/></b>用户帮助<i><img src="/yimixian/images/my/ic_cart_arrow_right.png"/></i></li>
+		<li><b><img src="/yimixian/images/my/ic_setting_custom_service.png"/></b>联系客服<i class="phone">4006-917-957</i></li>
+	</ul>
+</section>
